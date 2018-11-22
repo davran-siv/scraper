@@ -1,5 +1,5 @@
 {
-  "name": "scrapecr",
+  "name": "scraper",
   "version": "1.0.0",
   "description": "hackathon",
   "main": "src/index.ts",
